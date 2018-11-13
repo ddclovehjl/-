@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 新世界
 
-You can use the [editor on GitHub](https://github.com/ddclovehjl/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+可以看到 [表情包](http://image.so.com/v?src=360pic_strong&z=1&i=0&cmg=43f84d4676b1399479bef2327ed67d5a&q=%E8%A1%A8%E6%83%85%E5%8C%85&correct=%E8%A1%A8%E6%83%85%E5%8C%85&cmsid=0b3991d8ebeadda1012399754ca0f6e1&cmran=0&cmras=0&cn=0&gn=0&kn=50#multiple=0&gsrc=1&dataindex=3&id=701c7c7eb93759342694018141dc392e&currsn=0&jdx=3&fsn=110).
 
 ### Jekyll Themes
 
